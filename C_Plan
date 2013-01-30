@@ -1,0 +1,5 @@
+0
+%%
+28 (move p2-2 p2-1) (move p2-1 p1-1) (pickup-1-1-look-1 ) (move p1-1 p1-2) (pickup-1-2-look-1 ) (move p1-2 p1-1) (putdown p1-1) (move p1-2 p1-3) (pickup-1-3-look-1 ) (move p1-3 p1-2) (move p1-1 p2-1) (pickup-2-1-look-1 ) (move p1-2 p2-2) (pickup-2-2-look-1 ) (move p1-3 p2-3) (pickup-2-3-look-1 ) (move p2-3 p2-2) (move p2-1 p3-1) (pickup-3-1-look-1 ) (move p3-1 p2-1) (move p2-1 p2-2) (move p2-2 p3-2) (pickup-3-2-look-1 ) (move p3-2 p2-2) (move p2-2 p2-3) (move p2-3 p3-3) (pickup-3-3-look-1 ) (move p3-3 p3-2) 
+%%
+linear 52 0 1 2 3 4 5 6 3 7 8 9 5 10 11 1 6 3 12 13 0 1 3 7 14 15 16 0 1 6 10 17 18 19 1 10 20 21 22 23 0 1 6 3 12 24 25 26 27 23 0 1 6 
